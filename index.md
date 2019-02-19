@@ -16,6 +16,8 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 #### 27/02/2019 - Install Fest
 
+![encontro01](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_02_27.png)
+
 Neste primeiro encontro, leve o seu computador e notebook para ter sua primeira experiência com Processing. Iremos ajudar na instalação e configuração da IDE do Processing (venha sem medo, é muito simples!), iremos explorar algumas possibilidades criativas que ele nos permite e trocar links e referências para estudos posteriores.
 
 **Horário**: 19 horas
