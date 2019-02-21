@@ -28,6 +28,6 @@ Neste primeiro encontro, leve o seu computador e notebook para ter sua primeira 
 
 Empresarial Renato Dias - Av. Gov. Agamenon Magalhães 4318, sala 1801
 
-Santo Amaro, Recife - PE
+Paissandu, Recife - PE
 
 [Localização no Google Maps](https://goo.gl/maps/jYRmKJoMjWm)
