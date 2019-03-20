@@ -28,7 +28,7 @@ Tomando como partida os [templates de Golan Levin](https://github.com/golanlevin
 
 **Local**: Labcodes
 
-Praça do Derby, 149, 11º Andar
+Praça do Derby, 149, 11º Andar, Sala 1109
 
 Derby, Recife - PE
 
