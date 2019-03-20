@@ -36,9 +36,10 @@ Derby, Recife - PE
 
 ### Encontros anteriores
 
-- [1º Encontro - 27/02/2019 - Install Fest](1-encontro-)
+- [1º Encontro - 27/02/2019 - Install Fest](#1º-encontro)
 
-#### 1º Encontro - 27/02/2019 - Install Fest
+#### 1º Encontro
+#### 27/02/2019 - Install Fest
 
 ![encontro01](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_02_27.png)
 
