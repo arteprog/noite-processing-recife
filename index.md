@@ -19,7 +19,7 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 ![encontro03](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_04_24.png)
 
-[INSCRIÇÃO AQUI](https://goo.gl/forms/oVJf7EpDOmZodO9S2)
+[INSCRIÇÃO AQUI](https://forms.gle/1WGkKdX1YQeEjW7N6)
 
 **Horário**: 19 horas
 
@@ -42,8 +42,6 @@ Paissandu, Recife - PE
 #### 27/03/2019 - Gif Loops
 
 ![encontro02](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_03_27.gif)
-
-[INSCRIÇÃO AQUI](https://goo.gl/forms/oVJf7EpDOmZodO9S2)
 
 Tomando como partida os [templates de Golan Levin](https://github.com/golanlevin/LoopTemplates) para criar loops infinitos, vamos experimentar coletivamente na criação de gifs criados utilizando Processing.
 
