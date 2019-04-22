@@ -15,7 +15,30 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 
 ### Próximo encontro
+#### 24/04/2019 - Sistemas de Partículas
 
+![encontro03](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_04_24.png)
+
+[INSCRIÇÃO AQUI](https://goo.gl/forms/oVJf7EpDOmZodO9S2)
+
+**Horário**: 19 horas
+
+**Local**: Vinta Software
+
+Empresarial Renato Dias - Av. Gov. Agamenon Magalhães 4318, sala 1801
+
+Paissandu, Recife - PE
+
+[Localização no Google Maps](https://goo.gl/maps/xbCHq11KZ6tRo1TD8)
+
+<hr>
+
+### Encontros anteriores
+
+- [1º Encontro - 27/02/2019 - Install Fest](#1º-encontro)
+- [2º Encontro - 27/03/2019 - Gif Loops](#2º-encontro)
+
+#### 2º Encontro
 #### 27/03/2019 - Gif Loops
 
 ![encontro02](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_03_27.gif)
@@ -35,10 +58,6 @@ Derby, Recife - PE
 [Localização no Google Maps](https://goo.gl/maps/MDbf5NTUBWG2)
 
 <hr>
-
-### Encontros anteriores
-
-- [1º Encontro - 27/02/2019 - Install Fest](#1º-encontro)
 
 #### 1º Encontro
 #### 27/02/2019 - Install Fest
