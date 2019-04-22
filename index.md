@@ -21,6 +21,8 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 [INSCRIÇÃO AQUI](https://forms.gle/1WGkKdX1YQeEjW7N6)
 
+Neste encontro vamos falar sobre sistemas de partículas, o que são e como implementá-los. Vamos também estudar alguns exemplos e criar novos desenhos coletivamente.
+
 **Horário**: 19 horas
 
 **Local**: Vinta Software
