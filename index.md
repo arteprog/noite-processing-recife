@@ -13,13 +13,38 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 <hr>
 
 
-
 ### Próximo encontro
+#### 29/05/2019 - Explorações 3D
+
+![encontro04](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_05_29.png)
+
+[INSCRIÇÃO AQUI](https://forms.gle/dug6V9GhmiWosSAA9)
+
+Neste encontro vamos explorar coletivamente o uso do Processing para criar visualizações 3D.
+
+**Horário**: 19 horas
+
+**Local**: Labcodes Software Studio
+
+Praça do Derby, 149 - 11º Andar - Sala 1109
+
+Derby, Recife - PE
+
+[Localização no Google Maps](https://goo.gl/maps/c6PbaSt88PnsSyx67)
+
+<hr>
+
+### Encontros anteriores
+
+- [1º Encontro - 27/02/2019 - Install Fest](#1º-encontro)
+- [2º Encontro - 27/03/2019 - Gif Loops](#2º-encontro)
+- [3º Encontro - 24/04/2019 - Sistemas de Partículas](#3º-encontro)
+
+
+#### 3º Encontro
 #### 24/04/2019 - Sistemas de Partículas
 
 ![encontro03](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_04_24.png)
-
-[INSCRIÇÃO AQUI](https://forms.gle/1WGkKdX1YQeEjW7N6)
 
 Neste encontro vamos falar sobre sistemas de partículas, o que são e como implementá-los. Vamos também estudar alguns exemplos e criar novos desenhos coletivamente.
 
@@ -30,15 +55,6 @@ Neste encontro vamos falar sobre sistemas de partículas, o que são e como impl
 Empresarial Renato Dias - Av. Gov. Agamenon Magalhães 4318, sala 1801
 
 Paissandu, Recife - PE
-
-[Localização no Google Maps](https://goo.gl/maps/xbCHq11KZ6tRo1TD8)
-
-<hr>
-
-### Encontros anteriores
-
-- [1º Encontro - 27/02/2019 - Install Fest](#1º-encontro)
-- [2º Encontro - 27/03/2019 - Gif Loops](#2º-encontro)
 
 #### 2º Encontro
 #### 27/03/2019 - Gif Loops
@@ -54,8 +70,6 @@ Tomando como partida os [templates de Golan Levin](https://github.com/golanlevin
 Praça do Derby, 149, 11º Andar, Sala 1109
 
 Derby, Recife - PE
-
-[Localização no Google Maps](https://goo.gl/maps/MDbf5NTUBWG2)
 
 <hr>
 
