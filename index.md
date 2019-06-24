@@ -14,13 +14,13 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 
 ### Próximo encontro
-#### 29/05/2019 - Explorações 3D
+#### 26/06/2019 - Morfogênese Digital
 
-![encontro04](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_05_29.png)
+![encontro05](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_06_26.png)
 
 [INSCRIÇÃO AQUI](https://forms.gle/dug6V9GhmiWosSAA9)
 
-Neste encontro vamos explorar coletivamente o uso do Processing para criar visualizações 3D.
+Vamos ver diversos tipos de algoritmos para a criação de estruturas naturais.
 
 **Horário**: 19 horas
 
@@ -39,6 +39,24 @@ Derby, Recife - PE
 - [1º Encontro - 27/02/2019 - Install Fest](#1º-encontro)
 - [2º Encontro - 27/03/2019 - Gif Loops](#2º-encontro)
 - [3º Encontro - 24/04/2019 - Sistemas de Partículas](#3º-encontro)
+- [4º Encontro - 29/05/2019 - Explorações 3D](#4º-encontro)
+
+#### 4º Encontro
+#### 29/05/2019 - Explorações 3D
+
+![encontro04](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_05_29.png)
+
+Neste encontro vamos explorar coletivamente o uso do Processing para criar visualizações 3D.
+
+**Horário**: 19 horas
+
+**Local**: Labcodes Software Studio
+
+Praça do Derby, 149 - 11º Andar - Sala 1109
+
+Derby, Recife - PE
+
+[Localização no Google Maps](https://goo.gl/maps/c6PbaSt88PnsSyx67)
 
 
 #### 3º Encontro
