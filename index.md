@@ -14,13 +14,11 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 
 ### Próximo encontro
-#### 26/06/2019 - Morfogênese Digital
+#### 23/07/2019 - Música Generatica com FoxDot
 
-![encontro05](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_06_26.png)
+![encontro06](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_07_23.png)
 
-[INSCRIÇÃO AQUI](https://forms.gle/dug6V9GhmiWosSAA9)
-
-Vamos ver diversos tipos de algoritmos para a criação de estruturas naturais.
+Neste encontro o [Diego Dukão](https://twitter.com/diegodukao) vai falar sobre o música gerativa utilizando o FoxDot. Junto do [Bernardo Fontes](https://berinfontes.com/), ele também vai falar sobre as tecnologias que utilizaram na [Algorave](https://github.com/Algorave/algoraveconduct/blob/master/conduct.md) de encerramento da [PythonNordeste 2019](https://2019.pythonnordeste.org/).
 
 **Horário**: 19 horas
 
@@ -40,6 +38,25 @@ Derby, Recife - PE
 - [2º Encontro - 27/03/2019 - Gif Loops](#2º-encontro)
 - [3º Encontro - 24/04/2019 - Sistemas de Partículas](#3º-encontro)
 - [4º Encontro - 29/05/2019 - Explorações 3D](#4º-encontro)
+- [5º Encontro - 26/06/2019 - Morfogênese Digital](#4º-encontro)
+
+
+#### 5º Encontro
+#### 26/06/2019 - Morfogênese Digital
+
+![encontro05](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_06_26.png)
+
+Vamos ver diversos tipos de algoritmos para a criação de estruturas naturais.
+
+**Horário**: 19 horas
+
+**Local**: Labcodes Software Studio
+
+Praça do Derby, 149 - 11º Andar - Sala 1109
+
+Derby, Recife - PE
+
+<hr>
 
 #### 4º Encontro
 #### 29/05/2019 - Explorações 3D
@@ -55,8 +72,6 @@ Neste encontro vamos explorar coletivamente o uso do Processing para criar visua
 Praça do Derby, 149 - 11º Andar - Sala 1109
 
 Derby, Recife - PE
-
-[Localização no Google Maps](https://goo.gl/maps/c6PbaSt88PnsSyx67)
 
 
 #### 3º Encontro
