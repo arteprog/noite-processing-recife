@@ -48,13 +48,7 @@ Derby, Recife - PE
 
 Vamos ver diversos tipos de algoritmos para a criação de estruturas naturais.
 
-**Horário**: 19 horas
-
 **Local**: Labcodes Software Studio
-
-Praça do Derby, 149 - 11º Andar - Sala 1109
-
-Derby, Recife - PE
 
 <hr>
 
@@ -65,14 +59,9 @@ Derby, Recife - PE
 
 Neste encontro vamos explorar coletivamente o uso do Processing para criar visualizações 3D.
 
-**Horário**: 19 horas
-
 **Local**: Labcodes Software Studio
 
-Praça do Derby, 149 - 11º Andar - Sala 1109
-
-Derby, Recife - PE
-
+<hr>
 
 #### 3º Encontro
 #### 24/04/2019 - Sistemas de Partículas
@@ -81,13 +70,9 @@ Derby, Recife - PE
 
 Neste encontro vamos falar sobre sistemas de partículas, o que são e como implementá-los. Vamos também estudar alguns exemplos e criar novos desenhos coletivamente.
 
-**Horário**: 19 horas
-
 **Local**: Vinta Software
 
-Empresarial Renato Dias - Av. Gov. Agamenon Magalhães 4318, sala 1801
-
-Paissandu, Recife - PE
+<hr>
 
 #### 2º Encontro
 #### 27/03/2019 - Gif Loops
@@ -96,13 +81,7 @@ Paissandu, Recife - PE
 
 Tomando como partida os [templates de Golan Levin](https://github.com/golanlevin/LoopTemplates) para criar loops infinitos, vamos experimentar coletivamente na criação de gifs criados utilizando Processing.
 
-**Horário**: 19 horas
-
 **Local**: Labcodes
-
-Praça do Derby, 149, 11º Andar, Sala 1109
-
-Derby, Recife - PE
 
 <hr>
 
@@ -113,10 +92,4 @@ Derby, Recife - PE
 
 Neste primeiro encontro, leve o seu computador e notebook para ter sua primeira experiência com Processing. Iremos ajudar na instalação e configuração da IDE do Processing (venha sem medo, é muito simples!), iremos explorar algumas possibilidades criativas que ele nos permite e trocar links e referências para estudos posteriores.
 
-**Horário**: 19 horas
-
 **Local**: Vinta Software
-
-Empresarial Renato Dias - Av. Gov. Agamenon Magalhães 4318, sala 1801
-
-Paissandu, Recife - PE
