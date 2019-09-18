@@ -48,6 +48,14 @@ Derby, Recife - PE
 
 Vamos ver diversos tipos de algoritmos para a criação de estruturas naturais.
 
+**Horário**: 19 horas
+
+**Local**: Labcodes Software Studio
+
+Praça do Derby, 149 - 11º Andar - Sala 1109
+
+Derby, Recife - PE
+
 <hr>
 
 #### 4º Encontro
@@ -57,7 +65,13 @@ Vamos ver diversos tipos de algoritmos para a criação de estruturas naturais.
 
 Neste encontro vamos explorar coletivamente o uso do Processing para criar visualizações 3D.
 
-<hr>
+**Horário**: 19 horas
+
+**Local**: Labcodes Software Studio
+
+Praça do Derby, 149 - 11º Andar - Sala 1109
+
+Derby, Recife - PE
 
 
 #### 3º Encontro
@@ -67,7 +81,13 @@ Neste encontro vamos explorar coletivamente o uso do Processing para criar visua
 
 Neste encontro vamos falar sobre sistemas de partículas, o que são e como implementá-los. Vamos também estudar alguns exemplos e criar novos desenhos coletivamente.
 
-<hr>
+**Horário**: 19 horas
+
+**Local**: Vinta Software
+
+Empresarial Renato Dias - Av. Gov. Agamenon Magalhães 4318, sala 1801
+
+Paissandu, Recife - PE
 
 #### 2º Encontro
 #### 27/03/2019 - Gif Loops
@@ -75,6 +95,14 @@ Neste encontro vamos falar sobre sistemas de partículas, o que são e como impl
 ![encontro02](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_03_27.gif)
 
 Tomando como partida os [templates de Golan Levin](https://github.com/golanlevin/LoopTemplates) para criar loops infinitos, vamos experimentar coletivamente na criação de gifs criados utilizando Processing.
+
+**Horário**: 19 horas
+
+**Local**: Labcodes
+
+Praça do Derby, 149, 11º Andar, Sala 1109
+
+Derby, Recife - PE
 
 <hr>
 
@@ -84,3 +112,11 @@ Tomando como partida os [templates de Golan Levin](https://github.com/golanlevin
 ![encontro01](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_02_27.png)
 
 Neste primeiro encontro, leve o seu computador e notebook para ter sua primeira experiência com Processing. Iremos ajudar na instalação e configuração da IDE do Processing (venha sem medo, é muito simples!), iremos explorar algumas possibilidades criativas que ele nos permite e trocar links e referências para estudos posteriores.
+
+**Horário**: 19 horas
+
+**Local**: Vinta Software
+
+Empresarial Renato Dias - Av. Gov. Agamenon Magalhães 4318, sala 1801
+
+Paissandu, Recife - PE
