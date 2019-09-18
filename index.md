@@ -14,11 +14,11 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 
 ### Próximo encontro
-#### 23/07/2019 - Música Generatica com FoxDot
+#### 25/09/2019 - Processamento de Imagens
 
-![encontro06](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_07_23.png)
+![encontro07](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_09_25.png)
 
-Neste encontro o [Diego Dukão](https://twitter.com/diegodukao) vai falar sobre o música gerativa utilizando o FoxDot. Junto do [Bernardo Fontes](https://berinfontes.com/), ele também vai falar sobre as tecnologias que utilizaram na [Algorave](https://github.com/Algorave/algoraveconduct/blob/master/conduct.md) de encerramento da [PythonNordeste 2019](https://2019.pythonnordeste.org/).
+A manipulação digital de imagens abre muitos caminhos de explorações de narrativas e estéticas para além do que foi registrado na foto, pintura ou desenho. É muito comum usarmos softwares de edição proprietários para atingir tais resultados, mas a integração da imagem com a programação criativa viabiliza um controle para além das interfaces de tais editores. Neste encontro nós iremos estudar algumas obras compostas por imagens manipuladas através de código e também tentaremos alguns experimentos próprios.
 
 **Horário**: 19 horas
 
@@ -38,8 +38,19 @@ Derby, Recife - PE
 - [2º Encontro - 27/03/2019 - Gif Loops](#2º-encontro)
 - [3º Encontro - 24/04/2019 - Sistemas de Partículas](#3º-encontro)
 - [4º Encontro - 29/05/2019 - Explorações 3D](#4º-encontro)
-- [5º Encontro - 26/06/2019 - Morfogênese Digital](#4º-encontro)
+- [5º Encontro - 26/06/2019 - Morfogênese Digital](#5º-encontro)
+- [6º Encontro - 23/07/2019 - Música Generativa com FoxDot](#6º-encontro)
 
+#### 6º Encontro
+#### 23/07/2019 - Música Generatica com FoxDot
+
+![encontro06](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_07_23.png)
+
+Neste encontro o [Diego Dukão](https://twitter.com/diegodukao) vai falar sobre o música gerativa utilizando o FoxDot. Junto do [Bernardo Fontes](https://berinfontes.com/), ele também vai falar sobre as tecnologias que utilizaram na [Algorave](https://github.com/Algorave/algoraveconduct/blob/master/conduct.md) de encerramento da [PythonNordeste 2019](https://2019.pythonnordeste.org/).
+
+**Local**: Labcodes Software Studio
+
+<hr>
 
 #### 5º Encontro
 #### 26/06/2019 - Morfogênese Digital
