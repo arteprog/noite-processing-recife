@@ -14,11 +14,11 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 
 ### Próximo encontro
-#### 25/09/2019 - Processamento de Imagens
+#### 30/10/2019 - Experimentos com Noise
 
-![encontro07](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_09_25.png)
+![encontro08](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_10_30.png)
 
-A manipulação digital de imagens abre muitos caminhos de explorações de narrativas e estéticas para além do que foi registrado na foto, pintura ou desenho. É muito comum usarmos softwares de edição proprietários para atingir tais resultados, mas a integração da imagem com a programação criativa viabiliza um controle para além das interfaces de tais editores. Neste encontro nós iremos estudar algumas obras compostas por imagens manipuladas através de código e também tentaremos alguns experimentos próprios.
+A função [`noise`](https://processing.org/reference/noise_.html) é muito utilizada para controlar a randomicidade de uma forma fluida e mais orgânica. Neste encontro iremos ver seu uso e experimentá-la para criarmos novos desenhos.
 
 **Horário**: 19 horas
 
@@ -40,6 +40,27 @@ Derby, Recife - PE
 - [4º Encontro - 29/05/2019 - Explorações 3D](#4º-encontro)
 - [5º Encontro - 26/06/2019 - Morfogênese Digital](#5º-encontro)
 - [6º Encontro - 23/07/2019 - Música Generativa com FoxDot](#6º-encontro)
+- [7º Encontro - 25/09/2019 - Processamento de Imagens](#7º-encontro)
+
+
+#### 7º Encontro
+#### 25/09/2019 - Processamento de Imagens
+
+![encontro07](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_09_25.png)
+
+A manipulação digital de imagens abre muitos caminhos de explorações de narrativas e estéticas para além do que foi registrado na foto, pintura ou desenho. É muito comum usarmos softwares de edição proprietários para atingir tais resultados, mas a integração da imagem com a programação criativa viabiliza um controle para além das interfaces de tais editores. Neste encontro nós iremos estudar algumas obras compostas por imagens manipuladas através de código e também tentaremos alguns experimentos próprios.
+
+**Horário**: 19 horas
+
+**Local**: Labcodes Software Studio
+
+Praça do Derby, 149 - 11º Andar - Sala 1109
+
+Derby, Recife - PE
+
+[Localização no Google Maps](https://goo.gl/maps/c6PbaSt88PnsSyx67)
+
+<hr>
 
 #### 6º Encontro
 #### 23/07/2019 - Música Generatica com FoxDot
