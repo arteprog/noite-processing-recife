@@ -8,7 +8,7 @@
 
 O [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) é um encontro mensal organizado originalmente em São Paulo, pela Monica Rizzolli e Alexandre Villares. O encontro ocorre toda última terça-feira do mês desde 2016 e atualmente conta também com a participação do João Antonio de F. P. e Ferreira na sua realização.
 
-A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernambuco, organizado por Bernardo Fontes. A ideia dos encontros em Recife é a de fomentar uma comunidade local de programação criativa.
+A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernambuco, organizado por Bernardo Fontes. A ideia dos encontros em Recife é a de fomentar uma comunidade local de programação criativa. Se quiser, entre no nosso [grupo no Telegram](https://t.me/joinchat/IdJaxxMa0yC7_5oYtVXg4Q).
 
 <hr>
 
