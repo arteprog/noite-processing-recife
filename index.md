@@ -43,6 +43,8 @@ Derby, Recife - PE
 - [7º Encontro - 25/09/2019 - Processamento de Imagens](#7º-encontro)
 - [8º Encontro - 30/10/2019 - Experimentos com Noise](#8º-encontro)
 
+<hr>
+
 #### 8º Encontro
 #### 30/10/2019 - Experimentos com Noise
 
