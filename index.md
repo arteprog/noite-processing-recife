@@ -14,21 +14,20 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 
 ### Próximo encontro
-#### 27/11/2019 - Sistemas Lindenmayer (L-Systems)
 
-![encontro09](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_11_27.png)
+![encontro10](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_12_19.png)
 
-L-Sistemas são sistemas de re-escrita paralela. Basicamente, temos um alfabeto, e um conjunto de regras que expandem cada símbolo em uma sequência de símbolos. Estes sistemas foram desenvolvidos inicialmente para modelar o crescimento de plantas, mas podem ser usados para gerar um monte de outras coisas legais também.
+Neste encontro temos como convidado o artista e pesquisador [Tiago Brizolara](https://www.instagram.com/tiago.brizolara/?hl=pt). Ele irá apresentar uma instalação que criada por ele e baseada em um dos códigos do [Daniel Shiffman](https://shiffman.net/) que utilizava Leap Motion para gerar alterações em tempo real. A ideia do encontro é experimentarmos com esse código além de extendê-lo e tentar integrá-lo a outros dispositivos de entrada. Ao final do encontro, faremos uma comemoração do final desde ano de muitos desenhos e códigos.
 
 **Horário**: 19 horas
 
-**Local**: Labcodes Software Studio
+**Local**: Casa Criatura
 
-Praça do Derby, 149 - 11º Andar - Sala 1109
+Rua do Amparo, 83
 
-Derby, Recife - PE
+Olinda - PE
 
-[Localização no Google Maps](https://goo.gl/maps/c6PbaSt88PnsSyx67)
+[Localização no Google Maps](https://goo.gl/maps/SMFzu6HRqqFFUDBt5)
 
 <hr>
 
@@ -42,6 +41,18 @@ Derby, Recife - PE
 - [6º Encontro - 23/07/2019 - Música Generativa com FoxDot](#6º-encontro)
 - [7º Encontro - 25/09/2019 - Processamento de Imagens](#7º-encontro)
 - [8º Encontro - 30/10/2019 - Experimentos com Noise](#8º-encontro)
+- [9º Encontro - 27/11/2019 - Sistemas Lindenmayer](#9º-encontro)
+
+<hr>
+
+#### 9º Encontro
+#### 27/11/2019 - Sistemas Lindenmayer (L-Systems)
+
+![encontro09](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_11_27.png)
+
+L-Sistemas são sistemas de re-escrita paralela. Basicamente, temos um alfabeto, e um conjunto de regras que expandem cada símbolo em uma sequência de símbolos. Estes sistemas foram desenvolvidos inicialmente para modelar o crescimento de plantas, mas podem ser usados para gerar um monte de outras coisas legais também.
+
+**Local**: Labcodes Software Studio
 
 <hr>
 
