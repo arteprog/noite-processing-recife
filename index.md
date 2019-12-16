@@ -17,7 +17,7 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 ![encontro10](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_12_19.png)
 
-Neste encontro temos como convidado o artista e pesquisador [Tiago Brizolara](https://www.instagram.com/tiago.brizolara/?hl=pt). Ele irá apresentar uma instalação que criada por ele e baseada em um dos códigos do [Daniel Shiffman](https://shiffman.net/) que utilizava Leap Motion para gerar alterações em tempo real. A ideia do encontro é experimentarmos com esse código além de extendê-lo e tentar integrá-lo a outros dispositivos de entrada. Ao final do encontro, faremos uma comemoração do final desde ano de muitos desenhos e códigos.
+Neste encontro temos como convidado o artista e pesquisador [Tiago Brizolara](https://www.instagram.com/tiago.brizolara/?hl=pt). Ele irá apresentar uma instalação criada por ele, baseada em um dos códigos do [Daniel Shiffman](https://shiffman.net/) e que utilizava Leap Motion para gerar alterações em tempo real. A ideia do encontro é experimentarmos com esse código além de extendê-lo e tentar integrá-lo a outros dispositivos de entrada. Ao final do encontro, faremos uma comemoração do final deste ano de muitos desenhos e códigos.
 
 **Horário**: 19 horas
 
