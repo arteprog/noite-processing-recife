@@ -15,19 +15,19 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 ### Próximo encontro
 
-![encontro10](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_12_19.png)
+![encontro11](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2020_01_29.png)
 
-Neste encontro temos como convidado o artista e pesquisador [Tiago Brizolara](https://www.instagram.com/tiago.brizolara/?hl=pt). Ele irá apresentar uma instalação criada por ele, baseada em um dos códigos do [Daniel Shiffman](https://shiffman.net/) e que utilizava Leap Motion para gerar alterações em tempo real. A ideia do encontro é experimentarmos com esse código além de extendê-lo e tentar integrá-lo a outros dispositivos de entrada. Ao final do encontro, faremos uma comemoração do final deste ano de muitos desenhos e códigos.
+Neste encontro vamos ver o que são vetores e como utilizá-los com Processing.
 
 **Horário**: 19 horas
 
-**Local**: Casa Criatura
+**Local**: Labcodes Software Studio
 
-Rua do Amparo, 83
+Praça do Derby, 149
+11º Andar - Sala 1109
+Recife - PE
 
-Olinda - PE
-
-[Localização no Google Maps](https://goo.gl/maps/SMFzu6HRqqFFUDBt5)
+[Localização no Google Maps](https://g.page/labcodes)
 
 <hr>
 
@@ -42,6 +42,18 @@ Olinda - PE
 - [7º Encontro - 25/09/2019 - Processamento de Imagens](#7º-encontro)
 - [8º Encontro - 30/10/2019 - Experimentos com Noise](#8º-encontro)
 - [9º Encontro - 27/11/2019 - Sistemas Lindenmayer](#9º-encontro)
+- [10º Encontro - 19/12/2019 - Efeitos de Observador](#10º-encontro)
+
+<hr>
+
+#### 10º Encontro
+#### 19/12/2019 - Efeitos de Observador
+
+![encontro10](https://raw.githubusercontent.com/arteprog/noite-processing-recife/master/convites/2019_12_19.png)
+
+Neste encontro temos como convidado o artista e pesquisador [Tiago Brizolara](https://www.instagram.com/tiago.brizolara/?hl=pt). Ele irá apresentar uma instalação criada por ele, baseada em um dos códigos do [Daniel Shiffman](https://shiffman.net/) e que utilizava Leap Motion para gerar alterações em tempo real. A ideia do encontro é experimentarmos com esse código além de extendê-lo e tentar integrá-lo a outros dispositivos de entrada. Ao final do encontro, faremos uma comemoração do final deste ano de muitos desenhos e códigos.
+
+**Local**: Casa Criatura
 
 <hr>
 
