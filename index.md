@@ -21,13 +21,13 @@ Neste encontro vamos ver o que são vetores e como utilizá-los com Processing.
 
 **Horário**: 19 horas
 
-**Local**: Labcodes Software Studio
+**Local**: Vinta Software
 
-Praça do Derby, 149
-11º Andar - Sala 1109
-Recife - PE
+Av. Agamenon Magalhães, 4318
+Empresarial Renato Dias, 18º andar
+Paissandu, Recife
 
-[Localização no Google Maps](https://g.page/labcodes)
+[Localização no Google Maps](https://g.page/vintasoftware)
 
 <hr>
 

@@ -70,13 +70,13 @@
      inkscape:window-height="1025"
      id="namedview323"
      showgrid="false"
-     inkscape:zoom="0.84915181"
-     inkscape:cx="65.734341"
-     inkscape:cy="568.89675"
+     inkscape:zoom="0.600441"
+     inkscape:cx="360.96586"
+     inkscape:cy="470.38581"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g329"
      inkscape:snap-grids="true"
      showguides="true"
      inkscape:guide-bbox="true"><sodipodi:guide
@@ -99,6 +99,10 @@
        position="-82.435201,7.0658744"
        orientation="0,1"
        id="guide935"
+       inkscape:locked="false" /><sodipodi:guide
+       position="812.86997,706.29303"
+       orientation="1,0"
+       id="guide898"
        inkscape:locked="false" /></sodipodi:namedview><g
      inkscape:groupmode="layer"
      id="layer1"
@@ -127,8 +131,8 @@
    inkscape:export-xdpi="96"
    inkscape:connector-curvature="0"
    id="path349"
-   style="fill:#ff6000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00023818"
-   d="M 0.22080862,285.3503 H 609.46389 V -2.649703 H 0.22080862 Z"
+   style="fill:#ff6000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00041938"
+   d="M 0.22080862,285.3503 H 609.6847 V -2.649703 H 0.22080862 Z"
    inkscape:export-filename="/home/bernardo/workspace/noite-processing-recife/convites/2020_01_29.png" /><g
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
@@ -205,6 +209,7 @@
      id="tspan3946"
      sodipodi:role="line" /></text>
 
+
 <flowRoot
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
@@ -278,6 +283,7 @@
      id="tspan4015"
      sodipodi:role="line">arteprog.space/noite-processing-recife/</tspan></text>
 
+
 <flowRoot
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
@@ -294,10 +300,9 @@
        height="95.389305"
        width="300.29965"
        id="rect4023" /></flowRegion><flowPara
-     id="flowPara4025">Labcodes Software Studio</flowPara><flowPara
-     id="flowPara59">Praça do Derby, 149</flowPara><flowPara
-     id="flowPara931">11º Andar - Sala 1109</flowPara><flowPara
-     id="flowPara4029">Recife - PE</flowPara></flowRoot><flowRoot
+     id="flowPara4025">VintaSoftware</flowPara><flowPara
+     id="flowPara890">Av. Agamenon Magalhães, 4318 18º Andar</flowPara><flowPara
+     id="flowPara894">Recife - PE</flowPara></flowRoot><flowRoot
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    transform="matrix(0.75000002,0,0,-0.75000002,-7.7400162,663.38801)"
@@ -332,6 +337,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -344,6 +350,7 @@
      x="18.54792"
      y="-134.23759"
      style="stroke-width:0.75" /></text>
+
 
 
 
