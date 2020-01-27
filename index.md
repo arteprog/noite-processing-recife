@@ -19,6 +19,8 @@ A partir fevereiro de 2019, também teremos encontros mensais em Recife, Pernamb
 
 Neste encontro vamos ver o que são vetores e como utilizá-los com Processing.
 
+[INSCRIÇÔES AQUI](https://forms.gle/hGdSdPVZdbDHksbR6). A inscrição só é necessária para realizar a liberação da entrada na portaria.
+
 **Horário**: 19 horas
 
 **Local**: Vinta Software
